@@ -40,7 +40,7 @@ public class LoginServlet extends HttpServlet {
 		out.println("<title>Sri's World</title>");
 		out.println("</head>");
 		out.println("<body>");
-		out.println("<h1> Welcome to Container World using Jenkins !! </h1>");
+		out.println("<h1> Welcome to Container World using Jenkins Pipeline !! </h1>");
 		out.println("</body>");
 		out.println("</html>");
 
