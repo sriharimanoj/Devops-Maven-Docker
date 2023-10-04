@@ -37,7 +37,7 @@ public class LoginServlet extends HttpServlet {
 		PrintWriter out = response.getWriter();
 		out.println("<html>");
 		out.println("<head>");
-		out.println("<title>Techlanders Solutions</title>");
+		out.println("<title>Sri's World</title>");
 		out.println("</head>");
 		out.println("<body>");
 		out.println("<h1> Welcome to Container World using Jenkins !! </h1>");
